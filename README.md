@@ -1,4 +1,4 @@
-# 📱 Simple Social - A Social Media Application
+# 📱 Social-awk - A Social Media Application
 
 A full-stack social media platform built with FastAPI backend and Streamlit frontend, featuring user authentication, media uploads, and a real-time feed.
 
